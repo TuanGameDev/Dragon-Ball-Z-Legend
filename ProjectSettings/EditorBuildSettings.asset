@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 2e0fb33a38522c54699e16a110577eff
+  - enabled: 1
+    path: Assets/Scenes/Level1Coin.unity
+    guid: d2ec4f20154226d409f6a3e11a14715c
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: ee81a975ef08c6746a99cdaf4897e2be
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: c3a6dd457130f6d439dc934e54399e15
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 8f61b7e87d39abf40936e07c1cf74bff
+  - enabled: 1
+    path: Assets/Scenes/QuyLaoKame.unity
+    guid: f748037e30a0f8a40ac298ddb2eea000
+  - enabled: 1
+    path: Assets/Scenes/MabuuQuyLao.unity
+    guid: 766e0459e8bbeb34bac24ebb173a9dd5
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 4e69f3c08c3457a4283ed197f4a2e573
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: a9741c86c4016b24487540b99cae380f
+  - enabled: 1
+    path: Assets/Scenes/bardock.unity
+    guid: a196eb4b238e9e54a93ec651f1b3492b
+  - enabled: 1
+    path: Assets/Scenes/Level7 1.unity
+    guid: 9bfab2db2f5172d45963fa3d00e4f466
+  - enabled: 1
+    path: Assets/Scenes/Level7 2.unity
+    guid: 6ddebf517db532342b8f4d3d4928ad7e
+  - enabled: 1
+    path: Assets/Scenes/Level8.unity
+    guid: 3fe407d8a19237a46a05617e1bc1694e
+  - enabled: 1
+    path: Assets/Scenes/ThanBeeruss.unity
+    guid: 5d36fabc83e9b0f479d1c54a629c2311
+  - enabled: 1
+    path: Assets/Scenes/Level9.unity
+    guid: 6cf9a934e52764f49b65eb974cafb345
+  - enabled: 1
+    path: Assets/Scenes/Level10.unity
+    guid: 3c4bf82516b50444e8909bcf68576db8
+  - enabled: 1
+    path: Assets/Scenes/VuaVegeta.unity
+    guid: 8d7bb9128245aa84695af3456b789cde
+  - enabled: 1
+    path: Assets/Scenes/Boss.unity
+    guid: b1a5da5e46336f64e9b6f48fd899115d
+  - enabled: 1
+    path: Assets/Scenes/RongThan.unity
+    guid: 688b29643d0ee82498f31f8bedd40300
+  - enabled: 1
+    path: Assets/Scenes/Sieuthi.unity
+    guid: 656fe19423a9aca4689882814869a31f
+  - enabled: 1
+    path: Assets/Scenes/ThapKarin.unity
+    guid: a54c4d2101f7b4e49ab6191d1a6ce735
+  - enabled: 1
+    path: Assets/Scenes/Thanvutru.unity
+    guid: 8f2127a59752ec64ab1507fe1af8bac0
+  m_configObjects: {}
